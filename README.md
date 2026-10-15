@@ -96,23 +96,6 @@ I'm turning what I learn into practical work. This section will grow as I comple
 
 > 🌱 *“Don't compare your chapter one to somebody else's chapter twenty.”*
 
-
-*These cards depend on external services. If a card doesn't load, the rest of the profile will still work.*
-
----
-
-## 💜 A Few Reminders for the Journey
-
-> ✨ “Progress is progress, even when nobody else can see it.”
-
-> 🌱 “Be patient with yourself. You're learning something you've never done before.”
-
-> 🔥 “Consistency will take you places that motivation alone cannot.”
-
-> 💫 “Your past experience is not wasted. Every skill you carry becomes part of what you build next.”
-
-> 🚀 “Dream big, start small, show up daily.”
-
 ---
 
 <div align="center">
